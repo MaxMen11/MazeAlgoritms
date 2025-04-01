@@ -1,6 +1,6 @@
 # MazeAlgorithms
 
-The U&Wall Maze Algorithm operates as follows:
+The U&Walls Maze Algorithm operates as follows:
 
 1. **Initial Setup**: Start with a square area.
 2. **Dividing the Area**: Each side of the square is divided into halves, and one side is chosen randomly.
